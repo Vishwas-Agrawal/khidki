@@ -1,0 +1,1 @@
+https://api.themoviedb.org/3/trending/movie/week?api_key=7372ae765660f35a9b2e71883bb705a5
